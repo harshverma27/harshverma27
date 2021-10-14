@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshverma27
 - 👀 I’m interested in learning Techy things
-- 🌱 I’m currently learning C++ and Pyhton
+- 🌱 I’m currently learning C++ and Pyhton as well as Android Development
 - 💞️ I’m looking to collaborate on a project.
 - 📫 How to reach me,You can message me on telegram on @harshcodes
 
