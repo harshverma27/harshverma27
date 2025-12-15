@@ -10,6 +10,7 @@ I'm a passionate **software developer** and tech enthusiast, currently pursuing 
 - 🔭 Exploring **Android Development**, **IoT systems**, and **Full-stack solutions**.
 - 🧠 Quick learner — always excited about new tech, tools, and creative problem-solving.
 - 💻 Love working with: `C`, `C++`, `Python`, `Kotlin`, `SQL`.
+- 📟 I also make PCBs, I just forget to fabricate them.
 - 📱 Developing Android apps that solve real-world problems.
 - 🤝 Open for collaboration on interesting software projects!
 
@@ -17,8 +18,14 @@ I'm a passionate **software developer** and tech enthusiast, currently pursuing 
 
 ## 💼 Experience
 
+- 🧑‍💻 Ambassador | **HackerRank Campus Crew**, NIT Hamirpur  
+*Nov 2025 – Present*
+
 - 🧑‍💻 Volunteer | **Society for Promotions of Electronics Culture**, NIT Hamirpur  
-*Sept 2024 – Present*
+*Jult 2025 – Present*
+
+- 🧑‍💻 Volunteer | **Society for Promotions of Electronics Culture**, NIT Hamirpur  
+*Sept 2024 – April 2025*
 
 ---
 
@@ -43,6 +50,9 @@ I'm a passionate **software developer** and tech enthusiast, currently pursuing 
 
 | 💡 Project | 📃 Description | 🔗 Link |
 | ---------- | -------------- | ------- |
+| 📟 **Pi Zero UPS HAT** | My own UPS Hat for Raspberry Pi Zero with all protection features. | [View Repo](https://github.com/harshverma27/My-Own-UPS-HAT-for-Raspberry-Pi-Zero) |
+| 📟 **CCTV with Pi Zero** | A simple CCTV for hostel room made with with Raspberry Pi Zero using FFMpeg and MotionEYE| [View Repo](https://github.com/harshverma27/Raspberry-Pi-Based-CCTV) |
+| 📟 **AdBlocker with Pi Zero** | A network wide Ad Blocker with Raspberry Pi Zero based upon DNS filtering concept. | [View Repo](https://github.com/harshverma27/Raspberry-Pi-Based-AdBlocker) |
 | 🌾 **Kissan-Connect** | A native Android marketplace app connecting farmers and consumers, integrated with Firebase Authentication. | [View Repo](https://github.com/harshverma27/Kissan-Connect) |
 | 🏠 **Smart Home Automation** | IoT-powered Android app for smart home controls, fire detection, and secure locking using Arduino & ESP8266. | [View Repo](https://github.com/harshverma27/Home-Automation) |
 | 🚗 **Car Dealership System** | A PHP-based car dealership CRM with MySQL backend and full CRUD operations. | [View Repo](https://github.com/harshverma27/Car-Dealership) |
@@ -51,7 +61,8 @@ I'm a passionate **software developer** and tech enthusiast, currently pursuing 
 
 ## 🏆 Achievements
 
-- 🏅 Participated in **Smart India Hackathon** — organized by the Government of India.
+- 🏅 Won Best Beginner Hack Prize in Hack 5.0 hackathon.
+- 🏅 Participated and Cleared Internal Hackathon in **Smart India Hackathon** — organized by the Government of India.
 
 ---
 
