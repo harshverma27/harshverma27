@@ -21,8 +21,8 @@ I'm a passionate **software developer** and tech enthusiast, currently pursuing 
 - 🧑‍💻 Ambassador | **HackerRank Campus Crew**, NIT Hamirpur  
 *Nov 2025 – Present*
 
-- 🧑‍💻 Volunteer | **Society for Promotions of Electronics Culture**, NIT Hamirpur  
-*Jult 2025 – Present*
+- 🧑‍💻 Executive | **Society for Promotions of Electronics Culture**, NIT Hamirpur  
+*July 2025 – Present*
 
 - 🧑‍💻 Volunteer | **Society for Promotions of Electronics Culture**, NIT Hamirpur  
 *Sept 2024 – April 2025*
