@@ -7,7 +7,7 @@ I'm a passionate **software developer** and tech enthusiast, currently pursuing 
 
 ## 🚀 About Me
 
-- 🔭 Exploring **Android Development**, **IoT systems**, and **Full-stack solutions**.
+- 🔭 Exploring **Kernel Development**, **Embedded systems**, and **Hardware solutions**.
 - 🧠 Quick learner — always excited about new tech, tools, and creative problem-solving.
 - 💻 Love working with: `C`, `C++`, `Python`, `Kotlin`, `SQL`.
 - 📟 I also make PCBs, I just forget to fabricate them.
