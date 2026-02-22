@@ -119,6 +119,7 @@
 
 ## 🏆 Achievements & Strengths
 
+- 🏅 Won 2nd Runner up Prize in Rekkathon orgnised at NITH.
 - 🏅 Won Best Beginner Hack Prize in Hack 5.0 hackathon.
 - 🏅 Participated and Cleared Internal Hackathon in **Smart India Hackathon**.
 - 🧠 **Problem Solver** — Strong analytical thinking with hands-on debugging experience.
