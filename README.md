@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there+👋,+I'm+Harsh+Verma!&color=0e75b6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi%20there%20👋,%20I'm%20Harsh%20Verma!&color=0e75b6" alt="Typing SVG" />
 </h1>
 <h3 align="center">Software Developer | B.Tech EE @ NIT Hamirpur | Open Source Enthusiast</h3>
 
