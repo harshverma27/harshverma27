@@ -69,8 +69,8 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshverma27&show_icons=true&theme=radical&hide_border=true" alt="harshverma27's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshverma27&theme=radical" alt="harshverma27's GitHub Stats" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshverma27&theme=radical" alt="Top Languages" width="48%">
 </p>
 
 ---
