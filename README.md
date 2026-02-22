@@ -1,6 +1,4 @@
-<h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+Harsh+Verma%21&color=0e75b6)](https://git.io/typing-svg)
-</h1>
+<h1 align="center">Hi there 👋, I'm Harsh Verma</h1>
 <h3 align="center">Software Developer | B.Tech EE @ NIT Hamirpur | Open Source Enthusiast</h3>
 
 <p align="center">
