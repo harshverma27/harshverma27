@@ -1,7 +1,15 @@
-# Hey there! 👋 I'm Harsh Verma
+<h1 align="center">Hi there 👋, I'm Harsh Verma</h1>
+<h3 align="center">Software Developer | B.Tech EE @ NIT Hamirpur | Open Source Enthusiast</h3>
 
-Welcome to my GitHub space!  
-I'm a passionate **software developer** and tech enthusiast, currently pursuing **B.Tech in Electrical Engineering** at **NIT Hamirpur** *(2024-2028)*.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshverma27&label=Profile%20views&color=0e75b6&style=flat" alt="harshverma27" />
+  <a href="https://github.com/harshverma27">
+    <img src="https://img.shields.io/github/followers/harshverma27?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshhvermaa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
@@ -9,40 +17,39 @@ I'm a passionate **software developer** and tech enthusiast, currently pursuing 
 
 - 🔭 Exploring **Kernel Development**, **Embedded systems**, and **Hardware solutions**.
 - 🧠 Quick learner — always excited about new tech, tools, and creative problem-solving.
-- 💻 Love working with: `C`, `C++`, `Python`, `Kotlin`, `SQL`.
-- 📟 I also make PCBs, I just forget to fabricate them.
 - 📱 Developing Android apps that solve real-world problems.
+- 📟 I also make PCBs, I just forget to fabricate them.
 - 🤝 Open for collaboration on interesting software projects!
-
----
-
-## 💼 Experience
-
-- 🧑‍💻 Ambassador | **HackerRank Campus Crew**, NIT Hamirpur  
-*Nov 2025 – Present*
-
-- 🧑‍💻 Executive | **Society for Promotions of Electronics Culture**, NIT Hamirpur  
-*July 2025 – Present*
-
-- 🧑‍💻 Volunteer | **Society for Promotions of Electronics Culture**, NIT Hamirpur  
-*Sept 2024 – April 2025*
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Tools & Platforms
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+## 💼 Experience
+
+- 🧑‍💻 Ambassador | **HackerRank Campus Crew**, NIT Hamirpur *(Nov 2025 – Present)*
+- 🧑‍💻 Executive | **Society for Promotions of Electronics Culture**, NIT Hamirpur *(July 2025 – Present)*
+- 🧑‍💻 Volunteer | **Society for Promotions of Electronics Culture**, NIT Hamirpur *(Sept 2024 – April 2025)*
 
 ---
 
@@ -59,28 +66,24 @@ I'm a passionate **software developer** and tech enthusiast, currently pursuing 
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Metrics
 
-- 🏅 Won Best Beginner Hack Prize in Hack 5.0 hackathon.
-- 🏅 Participated and Cleared Internal Hackathon in **Smart India Hackathon** — organized by the Government of India.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshverma27&show_icons=true&theme=radical&hide_border=true" alt="harshverma27's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+</p>
 
 ---
 
-## 🌟 Strengths
+## 🏆 Achievements & Strengths
 
+- 🏅 Won Best Beginner Hack Prize in Hack 5.0 hackathon.
+- 🏅 Participated and Cleared Internal Hackathon in **Smart India Hackathon**.
 - 🧠 **Problem Solver** — Strong analytical thinking with hands-on debugging experience.
 - 🚀 **Adaptability** — Fast learner of new technologies like **AI/ML** and Linux-based tools.
 - 🤝 **Team Player** — Committed to collaboration and knowledge sharing.
 
 ---
 
-## 📫 Let's Connect!
-
-- 🔗 [GitHub](https://github.com/harshverma27)
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshhvermaa/)
-- 📧 [Email](mailto:harshhvermaa@icloud.com)
-
----
-
-> “Code isn’t just a tool — it’s a way to create meaningful impact.”  
-Thanks for visiting! ⭐
+> *"Code isn't just a tool — it's a way to create meaningful impact."*  
+> Thanks for visiting! ⭐
