@@ -15,11 +15,24 @@
 
 ## 🚀 About Me
 
-- 🔭 Exploring **Kernel Development**, **Embedded systems**, and **Hardware solutions**.
-- 🧠 Quick learner — always excited about new tech, tools, and creative problem-solving.
-- 📱 Developing Android apps that solve real-world problems.
-- 📟 I also make PCBs, I just forget to fabricate them.
-- 🤝 Open for collaboration on interesting software projects!
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <ul>
+        <li>🔭 Exploring <b>Kernel Development</b>, <b>Embedded systems</b>, and <b>Hardware solutions</b>.</li>
+        <li>🎓 Pursuing <b>B.Tech in Electrical Engineering</b> at <b>NIT Hamirpur</b> <i>(2024-2028)</i>.</li>
+        <li>📱 Developing <b>Android apps</b> that solve real-world problems.</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <ul>
+        <li>🧠 Quick learner — always excited about new tech and problem-solving.</li>
+        <li>📟 I also make PCBs, I just forget to fabricate them.</li>
+        <li>🤝 Open for collaboration on interesting projects!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -47,22 +60,51 @@
 
 ## 💼 Experience
 
-- 🧑‍💻 Ambassador | **HackerRank Campus Crew**, NIT Hamirpur *(Nov 2025 – Present)*
-- 🧑‍💻 Executive | **Society for Promotions of Electronics Culture**, NIT Hamirpur *(July 2025 – Present)*
-- 🧑‍💻 Volunteer | **Society for Promotions of Electronics Culture**, NIT Hamirpur *(Sept 2024 – April 2025)*
+### 🧑‍💻 Ambassador @ HackerRank Campus Crew
+📍 *NIT Hamirpur* | 📅 *Nov 2025 – Present*
+
+### 🧑‍💻 Executive @ Society for Promotions of Electronics Culture (SPEC)
+📍 *NIT Hamirpur* | 📅 *July 2025 – Present*
+
+### 🧑‍💻 Volunteer @ Society for Promotions of Electronics Culture (SPEC)
+📍 *NIT Hamirpur* | 📅 *Sept 2024 – April 2025*
 
 ---
 
 ## 📂 Featured Projects
 
-| 💡 Project | 📃 Description | 🔗 Link |
-| ---------- | -------------- | ------- |
-| 📟 **Pi Zero UPS HAT** | My own UPS Hat for Raspberry Pi Zero with all protection features. | [View Repo](https://github.com/harshverma27/My-Own-UPS-HAT-for-Raspberry-Pi-Zero) |
-| 📟 **CCTV with Pi Zero** | A simple CCTV for hostel room made with with Raspberry Pi Zero using FFMpeg and MotionEYE| [View Repo](https://github.com/harshverma27/Raspberry-Pi-Based-CCTV) |
-| 📟 **AdBlocker with Pi Zero** | A network wide Ad Blocker with Raspberry Pi Zero based upon DNS filtering concept. | [View Repo](https://github.com/harshverma27/Raspberry-Pi-Based-AdBlocker) |
-| 🌾 **Kissan-Connect** | A native Android marketplace app connecting farmers and consumers, integrated with Firebase Authentication. | [View Repo](https://github.com/harshverma27/Kissan-Connect) |
-| 🏠 **Smart Home Automation** | IoT-powered Android app for smart home controls, fire detection, and secure locking using Arduino & ESP8266. | [View Repo](https://github.com/harshverma27/Home-Automation) |
-| 🚗 **Car Dealership System** | A PHP-based car dealership CRM with MySQL backend and full CRUD operations. | [View Repo](https://github.com/harshverma27/Car-Dealership) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📟 <a href="https://github.com/harshverma27/My-Own-UPS-HAT-for-Raspberry-Pi-Zero">Pi Zero UPS HAT</a></h3>
+      <p>My own UPS Hat for Raspberry Pi Zero with all protection features.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📟 <a href="https://github.com/harshverma27/Raspberry-Pi-Based-CCTV">CCTV with Pi Zero</a></h3>
+      <p>A simple CCTV for hostel room made with Raspberry Pi Zero using FFMpeg and MotionEYE.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📟 <a href="https://github.com/harshverma27/Raspberry-Pi-Based-AdBlocker">AdBlocker with Pi Zero</a></h3>
+      <p>A network-wide Ad Blocker with Raspberry Pi Zero based upon DNS filtering concept.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 <a href="https://github.com/harshverma27/Kissan-Connect">Kissan-Connect</a></h3>
+      <p>A native Android marketplace app connecting farmers and consumers, integrated with Firebase.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/harshverma27/Home-Automation">Smart Home Automation</a></h3>
+      <p>IoT-powered Android app for smart home controls, fire detection, and secure locking.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/harshverma27/Car-Dealership">Car Dealership System</a></h3>
+      <p>A PHP-based car dealership CRM with MySQL backend and full CRUD operations.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
