@@ -111,8 +111,8 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshverma27&theme=radical" alt="harshverma27's GitHub Stats" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshverma27&theme=radical" alt="Top Languages" width="48%">
+  <img src="./assets/profile-details.svg" alt="harshverma27's GitHub Stats" width="48%">
+  <img src="./assets/repos-per-language.svg" alt="Top Languages" width="48%">
 </p>
 
 ---

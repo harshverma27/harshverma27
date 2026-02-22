@@ -1,0 +1,48 @@
+name: Auto-Update GitHub Metrics
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Run every 12 hours
+  workflow_dispatch: # Allow running manually
+
+jobs:
+  download-svgs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push the SVGs back to the repo
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Download Profile Details SVG
+        run: |
+          HTTP_STATUS=$(curl -s -L -o temp-profile.svg -w "%{http_code}" "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshverma27&theme=radical")
+          if [ "$HTTP_STATUS" -eq 200 ]; then
+            mv temp-profile.svg assets/profile-details.svg
+          else
+            echo "Failed to fetch profile details (Status: $HTTP_STATUS)"
+          fi
+
+      - name: Download Repos Per Language SVG
+        run: |
+          HTTP_STATUS=$(curl -s -L -o temp-repos.svg -w "%{http_code}" "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshverma27&theme=radical")
+          if [ "$HTTP_STATUS" -eq 200 ]; then
+            mv temp-repos.svg assets/repos-per-language.svg
+          else
+            echo "Failed to fetch repos per language (Status: $HTTP_STATUS)"
+          fi
+
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: auto-update github metrics svgs"
+            git push
+          fi
