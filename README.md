@@ -118,9 +118,9 @@
 ---
 
 ## 🏆 Achievements & Strengths
-
-- 🏅 Won 2nd Runner up Prize in Rekkathon orgnised at NITH.
-- 🏅 Won Best Beginner Hack Prize in Hack 5.0 hackathon.
+- 🏅 Won 1st Prize at HackSecure, Organised by CSEC ar NIT Hamirpur.
+- 🏅 Won 2nd Runner up Prize at Rekkathon orgnised at NIT Hamirpur.
+- 🏅 Won Best Beginner Prize at Hack 5.0, organised by CSEC at NIT Hamirpur..
 - 🏅 Participated and Cleared Internal Hackathon in **Smart India Hackathon**.
 - 🧠 **Problem Solver** — Strong analytical thinking with hands-on debugging experience.
 - 🚀 **Adaptability** — Fast learner of new technologies like **AI/ML** and Linux-based tools.
