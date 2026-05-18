@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Harsh+%F0%9F%91%8B;EE+undergrad+%40+NIT+Hamirpur;open+source+contributor+%E2%86%92+GNOME%2FGIMP;building+things+at+the+intersection+of+hardware+%26+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=hey%2C+I'm+Harsh+%F0%9F%91%8B;EE+undergrad+%40+NIT+Hamirpur;open+source+contributor+%E2%86%92+GNOME%2FGIMP;building+things+at+the+intersection+of+hardware+%26+software)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,9 +12,9 @@
 class Harsh:
     pronouns   = "he/him"
     institute  = "NIT Hamirpur — EE '28"
-    role       = ["MLSA", "SPEC NITH Executive", "GSoC Aspirant"]
+    role       = ["Open Source Contributor"]
     os         = "Arch Linux + KDE Plasma"
-    focus      = ["Embedded Systems", "Open Source", "Android Dev"]
+    focus      = ["Embedded Systems", "Open Source", "Firmware Development"]
     currently  = "Contributing to GNOME · GIMP · BABL"
     motto      = "ship it, then improve it"
 ```
