@@ -46,8 +46,8 @@ class Harsh:
 ### 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshverma27&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshverma27&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&cache_seconds=3600" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshverma27&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=3600" />
 </div>
 
 <div align="center">
@@ -59,7 +59,7 @@ class Harsh:
 ### 🐍 &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshverma27/harshverma27/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/harshverma27/harshverma27/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
