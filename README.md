@@ -1,132 +1,76 @@
-<h1 align="center">Hi there 👋, I'm Harsh Verma</h1>
-<h3 align="center">Software Developer | B.Tech EE @ NIT Hamirpur | Open Source Enthusiast</h3>
+```
+███████████████████████████████████████████████████████████████████
+█                                                                   █
+█   harsh@nith:~$  _                                                █
+█                                                                   █
+███████████████████████████████████████████████████████████████████
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshverma27&label=Profile%20views&color=0e75b6&style=flat" alt="harshverma27" />
-  <a href="https://github.com/harshverma27">
-    <img src="https://img.shields.io/github/followers/harshverma27?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshhvermaa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <ul>
-        <li>🔭 Exploring <b>Kernel Development</b>, <b>Embedded systems</b>, and <b>Hardware solutions</b>.</li>
-        <li>🎓 Pursuing <b>B.Tech in Electrical Engineering</b> at <b>NIT Hamirpur</b> <i>(2024-2028)</i>.</li>
-        <li>📱 Developing <b>Android apps</b> that solve real-world problems.</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <ul>
-        <li>🧠 Quick learner — always excited about new tech and problem-solving.</li>
-        <li>📟 I also make PCBs, I just forget to fabricate them.</li>
-        <li>🤝 Open for collaboration on interesting projects!</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```bash
+$ whoami
+```
+```
+harsh verma — EE undergrad @ NIT Hamirpur
+building things in the open, mostly in C, Python & Kotlin
+MLSA | SPEC NITH | open source enjoyer
+```
 
 ---
 
-## 🧑‍💻 Tech Stack
-
-<div align="center">
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Tools & Platforms
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
+```bash
+$ neofetch
+```
+```
+          ___                   harsh@nith
+         /\  \                  ----------
+        /  \  \                 OS: Arch Linux x86_64 (KDE Plasma)
+       / /\ \  \                Shell: bash / zsh
+      / /  \ \  \               Editor: VSCode (sometimes vim, don't judge)
+     / /    \ \  \              Focus: Embedded • Open Source • Android
+    /_/      \_\__\             Currently: GSoC '26 contender → GNOME/GIMP
+                                Uptime: 1st year, long road ahead
+```
 
 ---
 
-## 💼 Experience
-
-### 🧑‍💻 Ambassador @ HackerRank Campus Crew
-📍 *NIT Hamirpur* | 📅 *Nov 2025 – Present*
-
-### 🧑‍💻 Executive @ Society for Promotions of Electronics Culture (SPEC)
-📍 *NIT Hamirpur* | 📅 *July 2025 – Present*
-
-### 🧑‍💻 Volunteer @ Society for Promotions of Electronics Culture (SPEC)
-📍 *NIT Hamirpur* | 📅 *Sept 2024 – April 2025*
-
----
-
-## 📂 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📟 <a href="https://github.com/harshverma27/My-Own-UPS-HAT-for-Raspberry-Pi-Zero">Pi Zero UPS HAT</a></h3>
-      <p>My own UPS Hat for Raspberry Pi Zero with all protection features.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📟 <a href="https://github.com/harshverma27/Raspberry-Pi-Based-CCTV">CCTV with Pi Zero</a></h3>
-      <p>A simple CCTV for hostel room made with Raspberry Pi Zero using FFMpeg and MotionEYE.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📟 <a href="https://github.com/harshverma27/Raspberry-Pi-Based-AdBlocker">AdBlocker with Pi Zero</a></h3>
-      <p>A network-wide Ad Blocker with Raspberry Pi Zero based upon DNS filtering concept.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌾 <a href="https://github.com/harshverma27/Kissan-Connect">Kissan-Connect</a></h3>
-      <p>A native Android marketplace app connecting farmers and consumers, integrated with Firebase.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/harshverma27/Home-Automation">Smart Home Automation</a></h3>
-      <p>IoT-powered Android app for smart home controls, fire detection, and secure locking.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/harshverma27/Car-Dealership">Car Dealership System</a></h3>
-      <p>A PHP-based car dealership CRM with MySQL backend and full CRUD operations.</p>
-    </td>
-  </tr>
-</table>
+```bash
+$ cat skills.txt
+```
+```
+[languages]     C · C++ · Python · Kotlin · Bash · SQL
+[embedded]      ESP32 · Raspberry Pi · PCB Design (KiCad)
+[android]       Jetpack Compose · Firebase · Navigation
+[backend]       Django · MySQL · REST APIs
+[toolchain]     Git · GitHub Actions · GitLab CI/CD · FFmpeg · Linux
+[currently learning]  GTK+ / GIMP internals · Zephyr RTOS
+```
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="./assets/profile-details.svg" alt="harshverma27's GitHub Stats" width="48%">
-  <img src="./assets/repos-per-language.svg" alt="Top Languages" width="48%">
-</p>
-
----
-
-## 🏆 Achievements & Strengths
-- 🏅 Won 1st Prize at HackSecure, Organised by CSEC ar NIT Hamirpur.
-- 🏅 Won 2nd Runner up Prize at Rekkathon orgnised at NIT Hamirpur.
-- 🏅 Won Best Beginner Prize at Hack 5.0, organised by CSEC at NIT Hamirpur..
-- 🏅 Participated and Cleared Internal Hackathon in **Smart India Hackathon**.
-- 🧠 **Problem Solver** — Strong analytical thinking with hands-on debugging experience.
-- 🚀 **Adaptability** — Fast learner of new technologies like **AI/ML** and Linux-based tools.
-- 🤝 **Team Player** — Committed to collaboration and knowledge sharing.
+```bash
+$ git log --oneline --open-source
+```
+```
+f3a91c2  gnome/gimp    — unit test framework for core libs (65+ files, CI integrated)
+b82e04a  gnome/babl    — fixed double-pipeline bug in GitLab CI, -50% resource usage
+7c3d119  gnome/gimp    — replaced weighted blur with gaussian kernel implementation
+a1f0088  gnome/gnome-handbook — updated SSH key guidance to ed25519 standard
+```
 
 ---
 
-> *"Code isn't just a tool — it's a way to create meaningful impact."*  
-> Thanks for visiting! ⭐
+```bash
+$ ls ~/contact/
+```
+```
+email/     linkedin/     github/
+```
+> `harshverma27` everywhere that matters.
+
+---
+
+```bash
+$ cat .motto
+"ship it, then improve it"
+harsh@nith:~$ █
+```
