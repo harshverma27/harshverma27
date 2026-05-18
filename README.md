@@ -33,7 +33,7 @@
 
 | Repo | What I did |
 |------|------------|
-| `gnome/gimp` | Built unit test framework from scratch — 65+ files, wired into GitLab CI |
+| `gnome/gimp` | Built unit test framework from scratch — 15+ files, wired into GitLab CI |
 | `gnome/babl` | Fixed a CI bug that spawned duplicate pipelines on every push, cut resource usage by 50% |
 | `gnome/gimp` | Swapped legacy weighted blur with Gaussian kernel implementation |
 | `gnome/gnome-docs` | Updated SSH key docs to ed25519 standard with config section |
@@ -44,7 +44,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhvermaa)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/harshbuilds.com-000?style=flat-square&logo=vercel&logoColor=white)](https://heyharsh.me)
+[![Portfolio](https://img.shields.io/badge/heyharsh.me-000?style=flat-square&logo=vercel&logoColor=white)](https://heyharsh.me)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshkardam246@email.com)
 &nbsp;
