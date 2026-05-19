@@ -13,7 +13,6 @@
 - 🐧 &nbsp;Daily driver — **Arch Linux** + KDE Plasma
 - 📱 &nbsp;Android dev with **Jetpack Compose**
 - 🌱 &nbsp;Currently exploring **GTK+** & **Zephyr RTOS**
-- ⚡ &nbsp;Microsoft Learn Student Ambassador
 
 <br clear="right"/>
 
