@@ -88,11 +88,29 @@ STM32CubeIDE locks embedded devs into a 2 GB Eclipse fork, a click-through pin G
 <a href="https://github.com/harshverma27/nucleus"><img src="https://img.shields.io/badge/▶_explore_nucleus-0d1117?style=for-the-badge&labelColor=0e4429&color=0d1117" /></a>
 
 </td>
-<td width="38%" valign="top">
+<td width="40%" valign="top">
 
 <a href="https://github.com/harshverma27/nucleus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshverma27&repo=nucleus&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22d3ee&text_color=8b949e" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshverma27&repo=nucleus&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22d3ee&text_color=8b949e" />
 </a>
+
+<img src="https://img.shields.io/github/stars/harshverma27/nucleus?style=flat-square&logo=github&label=stars&color=4ade80&labelColor=0d1117" />
+<img src="https://img.shields.io/github/last-commit/harshverma27/nucleus?style=flat-square&label=last&color=22d3ee&labelColor=0d1117" />
+<img src="https://img.shields.io/github/languages/top/harshverma27/nucleus?style=flat-square&color=a78bfa&labelColor=0d1117" />
+
+```toml
+# stm32.toml — diffable hardware
+[chip]
+mcu = "STM32F411CEU6"
+
+[pin.PA5]
+mode  = "output"
+label = "led"
+
+[trace]
+itm  = true   # real-time ITM
+baud = 2_000_000
+```
 
 </td>
 </tr>
@@ -102,11 +120,27 @@ STM32CubeIDE locks embedded devs into a 2 GB Eclipse fork, a click-through pin G
 
 <table border="0">
 <tr>
-<td width="38%" valign="top">
+<td width="40%" valign="top">
 
 <a href="https://github.com/harshverma27/SparkIDE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshverma27&repo=SparkIDE&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22d3ee&text_color=8b949e" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshverma27&repo=SparkIDE&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22d3ee&text_color=8b949e" />
 </a>
+
+<img src="https://img.shields.io/github/stars/harshverma27/SparkIDE?style=flat-square&logo=github&label=stars&color=4ade80&labelColor=0d1117" />
+<img src="https://img.shields.io/github/last-commit/harshverma27/SparkIDE?style=flat-square&label=last&color=22d3ee&labelColor=0d1117" />
+<img src="https://img.shields.io/github/languages/top/harshverma27/SparkIDE?style=flat-square&color=a78bfa&labelColor=0d1117" />
+
+```cpp
+// snap blocks → get this C++
+void setup() {
+  pinMode(13, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(13, HIGH);
+  delay(500);
+}
+```
 
 </td>
 <td width="62%" valign="top">
