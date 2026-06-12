@@ -55,7 +55,6 @@ harsh@arch:~$ whoami --verbose
 - Building **[Nucleus](https://github.com/harshverma27/nucleus)** — a modern STM32 platform in Rust
 - Building **[SparkIDE](https://github.com/harshverma27/SparkIDE)** — block-based Arduino IDE
 - Writing tests for **GIMP** & fixing **GNOME** CI
-- Microsoft Learn Student Ambassador
 
 </td>
 </tr>
