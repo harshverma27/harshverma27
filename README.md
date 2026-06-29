@@ -176,6 +176,39 @@ Active contributor to **GNOME** ([GitLab @harshverma](https://gitlab.gnome.org/h
 | **BABL · GEGL** | Fixed CI flaw spawning duplicate pipelines on every commit | Cut runner **resource usage by ~50%** |
 | **GIMP** | Replaced weighted blur with Gaussian-distributed kernels | Sharper, spec-aligned blur strength |
 
+<!-- ============ ORGS ============ -->
+## <samp>$ id --groups</samp>
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/kernex-sbs">
+<img src="https://avatars.githubusercontent.com/u/188563992?v=4" width="72" />
+<br/><b>kernex</b>
+</a>
+<br/><sub>a playground for ideas i care enough to ship</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/ResQTerra">
+<img src="https://avatars.githubusercontent.com/u/224233261?v=4" width="72" />
+<br/><b>ResQTerra</b>
+</a>
+<br/><sub>drone-based landslide search &amp; rescue system</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Backdoor-Zero">
+<img src="https://avatars.githubusercontent.com/u/297050865?v=4" width="72" />
+<br/><b>Backdoor Zero</b>
+</a>
+<br/><sub>we hunt the holes in the boxes that route your life</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <!-- ============ ARSENAL ============ -->
