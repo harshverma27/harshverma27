@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.CONTRIB_TOKEN }}
-          games: 'pacman'
+          games: 'pacman,puzzle-bobble'
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

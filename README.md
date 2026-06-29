@@ -257,6 +257,8 @@ Active contributor to **GNOME** ([GitLab @harshverma](https://gitlab.gnome.org/h
 
 <div align="center">
 
+<img alt="puzzle bobble contributions" src="https://raw.githubusercontent.com/harshverma27/harshverma27/output/puzzle-bobble-contribution-graph-dark.svg" />
+
 <img alt="pacman eats contributions" src="https://raw.githubusercontent.com/harshverma27/harshverma27/output/pacman-contribution-graph-dark.svg" />
 
 </div>
