@@ -228,13 +228,6 @@ Active contributor to **GNOME** ([GitLab @harshverma](https://gitlab.gnome.org/h
 &nbsp;
 <img height="170" src="https://streak-stats.demolab.com?user=harshverma27&hide_border=true&background=0d1117&stroke=21262d&ring=22d3ee&fire=f471b5&currStreakLabel=4ade80&sideLabels=8b949e&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff&dayLabels=4ade80&excludeDaysLabel=6e7681" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshverma27&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshverma27&theme=github_dark" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshverma27&theme=github_dark" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshverma27&theme=github_dark&utcOffset=5.5" />
 
 </div>
 

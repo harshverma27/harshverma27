@@ -25,7 +25,7 @@ jobs:
           config_timezone: Asia/Kolkata
 
           # dark, neon-leaning theme to match the README
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
 
           # languages I actually ship
