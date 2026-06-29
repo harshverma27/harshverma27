@@ -1,4 +1,4 @@
-name: Generate Mario Contribution Graph
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
@@ -12,28 +12,21 @@ permissions:
   contents: write
 
 concurrency:
-  group: mario-${{ github.ref }}
+  group: pacman-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Generate Pacman SVGs (light + dark)
+        uses: Nicco-Dev/pacman-contribution-graph@v1.0
         with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: pip install pillow requests
-
-      - name: Generate Mario contribution GIF
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/mario_contrib.py
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman.svg?palette=github-light
+            dist/pacman-dark.svg?palette=github-dark&color_pacman=#4ade80&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
