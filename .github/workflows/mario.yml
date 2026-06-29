@@ -2,34 +2,28 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
-permissions:
-  contents: write
-
-concurrency:
-  group: pacman-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
+
     steps:
-      - name: Generate Pacman SVGs (light + dark)
-        uses: Nicco-Dev/pacman-contribution-graph@v1.0
+      - name: Generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman.svg?palette=github-light
-            dist/pacman-dark.svg?palette=github-dark&color_pacman=#4ade80&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+          games: 'pacman'
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

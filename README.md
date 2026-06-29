@@ -240,9 +240,9 @@ Active contributor to **GNOME** ([GitLab @harshverma](https://gitlab.gnome.org/h
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshverma27/harshverma27/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshverma27/harshverma27/output/pacman.svg" />
-  <img alt="pacman eats contributions" src="https://raw.githubusercontent.com/harshverma27/harshverma27/output/pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshverma27/harshverma27/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshverma27/harshverma27/output/pacman-contribution-graph.svg" />
+  <img alt="pacman eats contributions" src="https://raw.githubusercontent.com/harshverma27/harshverma27/output/pacman-contribution-graph.svg" />
 </picture>
 
 </div>
