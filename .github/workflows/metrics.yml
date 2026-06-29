@@ -19,7 +19,7 @@ jobs:
         with:
           # METRICS_TOKEN = a classic PAT (scopes: public_repo, read:user).
           # Falls back to the built-in token for basic metrics if the secret is unset.
-          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          token: ${{ secrets.CONTRIB_TOKEN }}
           filename: metrics.svg
           user: harshverma27
           config_timezone: Asia/Kolkata
