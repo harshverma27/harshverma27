@@ -174,7 +174,7 @@ Active contributor to **GNOME** ([GitLab @harshverma](https://gitlab.gnome.org/h
 
 | Project | Contribution | Impact |
 | :-- | :-- | :-- |
-| **GIMP** | Built a [commit-checking-framework](https://github.com/GNOME/gimp/commit/389681f7db7378e234464657826c42c2d2dfb0fd#diff-8bbf9011a241b47003bb4153423e27a1e155035f1f9682c9bc4a7b395ac126da) from scratch for MR events | All commits are now getting checked for titles and description patterns, **uniformity increased**. |
+| **GIMP** | Built a [commit-checking-framework](https://github.com/GNOME/gimp/commit/389681f7db7378e234464657826c42c2d2dfb0fd) from scratch for MR events | All commits are now getting checked for titles and description patterns, **uniformity increased**. |
 | **BABL · GEGL** | Fixed CI flaw spawning duplicate pipelines on every commit | Cut runner **resource usage by ~50%** |
 | **GIMP** | Replaced weighted blur with Gaussian-distributed kernels | Sharper, spec-aligned blur strength |
 
