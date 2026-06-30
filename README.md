@@ -23,6 +23,8 @@
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=harshverma27&style=for-the-badge&color=a78bfa&label=VISITORS&labelColor=0d1117)](https://github.com/harshverma27)
 
+<img alt="puzzle bobble contributions" src="https://raw.githubusercontent.com/harshverma27/harshverma27/output/puzzle-bobble-contribution-graph-dark.svg" />
+
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
@@ -256,8 +258,6 @@ Active contributor to **GNOME** ([GitLab @harshverma](https://gitlab.gnome.org/h
 ## <samp>$ ./play --pacman</samp>
 
 <div align="center">
-
-<img alt="puzzle bobble contributions" src="https://raw.githubusercontent.com/harshverma27/harshverma27/output/puzzle-bobble-contribution-graph-dark.svg" />
 
 <img alt="pacman eats contributions" src="https://raw.githubusercontent.com/harshverma27/harshverma27/output/pacman-contribution-graph-dark.svg" />
 
