@@ -29,141 +29,56 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
+<!-- ============ ARSENAL ============ -->
+## <samp>$ ls ./toolchain</samp>
+
+<div align="center">
+
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=f74c00)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=a8b9cc)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599c)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffd43b)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7f52ff)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4eaa25)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1)
+
+**Embedded · Hardware**
+
+![STM32](https://img.shields.io/badge/STM32-0d1117?style=for-the-badge&logo=stmicroelectronics&logoColor=03234b)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00979d)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=a22846)
+![GTK](https://img.shields.io/badge/GTK+-0d1117?style=for-the-badge&logo=gtk&logoColor=7fe719)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=007808)
+
+**Backend · Mobile · Cloud**
+
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092e20)
+![Jetpack Compose](https://img.shields.io/badge/Compose-0d1117?style=for-the-badge&logo=jetpackcompose&logoColor=4285f4)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28)
+![PyQt](https://img.shields.io/badge/PyQt6-0d1117?style=for-the-badge&logo=qt&logoColor=41cd52)
+
+**Automation · Systems**
+
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=fcc624)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088ff)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-0d1117?style=for-the-badge&logo=gitlab&logoColor=fc6d26)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
 <!-- ============ ABOUT ============ -->
 ## <samp>$ whoami</samp>
 
 ```yaml
-harsh@arch:~$ whoami --verbose
-➜  EE undergrad @ NIT Hamirpur                 # '24 → '28
-➜  I live one layer below the app             # firmware, CLIs, build tooling, CI
-➜  Daily driver: Arch Linux                   # VS Code + a terminal that never closes
-➜  Currently: turning STM32CubeIDE pain       # ...into a 4 MB Rust binary
+EE undergrad @ NIT Hamirpur ('24→'28) · Arch Linux · firmware, CLIs, build tooling, CI
+Currently: working on Nucleus & SparkIDE · writing tests for GIMP · fixing GNOME CI
 ```
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🛰️ &nbsp;What I'm into**
-- Embedded systems & PCB / power design
-- Developer tooling that's CLI-first & diffable
-- CI/CD automation across GitHub & GitLab
-- Real-time tracing, HALs, code-gen
-
-</td>
-<td valign="top" width="50%">
-
-**⚡ &nbsp;Right now**
-- Building **[Nucleus](https://github.com/harshverma27/nucleus)** — a modern STM32 platform in Rust
-- Building **[SparkIDE](https://github.com/harshverma27/SparkIDE)** — block-based Arduino IDE
-- Writing tests for **GIMP** & fixing **GNOME** CI
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-<!-- ============ FLAGSHIP BUILDS ============ -->
-## <samp>$ cat ./flagship_builds/*</samp>
-
-### ◢ Nucleus &nbsp;·&nbsp; <sub>`a modern STM32 developer platform`</sub>
-
-<table border="0">
-<tr>
-<td width="62%" valign="top">
-
-> **Not an IDE replacement. A developer platform.**
-
-STM32CubeIDE locks embedded devs into a 2 GB Eclipse fork, a click-through pin GUI, and opaque XML you can't diff or run in CI. **Nucleus** replaces both lock-ins with a **4 MB Rust CLI** and a VS Code extension:
-
-- 🧩 &nbsp;Declarative `stm32.toml` — version-controllable, CI-friendly hardware config
-- 🧮 &nbsp;**Pinmux compiler** + constraint solver instead of a point-and-click GUI
-- 📡 &nbsp;**ITM trace daemon** — real-time debug without a \$600 Segger license
-- 🦀 &nbsp;Rust core · TypeScript + React extension · LSP-powered editor UX
-
-<a href="https://github.com/harshverma27/nucleus"><img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=f74c00" /></a>
-<a href="https://github.com/harshverma27/nucleus"><img src="https://img.shields.io/badge/STM32-0d1117?style=flat-square&logo=stmicroelectronics&logoColor=03234b" /></a>
-<a href="https://github.com/harshverma27/nucleus"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6" /></a>
-<br/>
-<a href="https://github.com/harshverma27/nucleus"><img src="https://img.shields.io/badge/▶_explore_nucleus-0d1117?style=for-the-badge&labelColor=0e4429&color=0d1117" /></a>
-
-</td>
-<td width="40%" valign="top">
-
-<a href="https://github.com/harshverma27/nucleus">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshverma27&repo=nucleus&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22d3ee&text_color=8b949e" />
-</a>
-
-<img src="https://img.shields.io/github/stars/harshverma27/nucleus?style=flat-square&logo=github&label=stars&color=4ade80&labelColor=0d1117" />
-<img src="https://img.shields.io/github/last-commit/harshverma27/nucleus?style=flat-square&label=last&color=22d3ee&labelColor=0d1117" />
-<img src="https://img.shields.io/github/languages/top/harshverma27/nucleus?style=flat-square&color=a78bfa&labelColor=0d1117" />
-
-```toml
-# stm32.toml — diffable hardware
-[chip]
-mcu = "STM32F411CEU6"
-
-[pin.PA5]
-mode  = "output"
-label = "led"
-
-[trace]
-itm  = true   # real-time ITM
-baud = 2_000_000
-```
-
-</td>
-</tr>
-</table>
-
-### ◢ SparkIDE &nbsp;·&nbsp; <sub>`Arduino, without the cliff`</sub>
-
-<table border="0">
-<tr>
-<td width="40%" valign="top">
-
-<a href="https://github.com/harshverma27/SparkIDE">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshverma27&repo=SparkIDE&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=22d3ee&text_color=8b949e" />
-</a>
-
-<img src="https://img.shields.io/github/stars/harshverma27/SparkIDE?style=flat-square&logo=github&label=stars&color=4ade80&labelColor=0d1117" />
-<img src="https://img.shields.io/github/last-commit/harshverma27/SparkIDE?style=flat-square&label=last&color=22d3ee&labelColor=0d1117" />
-<img src="https://img.shields.io/github/languages/top/harshverma27/SparkIDE?style=flat-square&color=a78bfa&labelColor=0d1117" />
-
-```cpp
-// snap blocks → get this C++
-void setup() {
-  pinMode(13, OUTPUT);
-}
-
-void loop() {
-  digitalWrite(13, HIGH);
-  delay(500);
-}
-```
-
-</td>
-<td width="62%" valign="top">
-
-> **Scratch-like blocks → real Arduino C++ → flashed to your board, in one click.**
-
-A lightweight, native **PyQt6** desktop IDE that wraps Google Blockly in a maker-lab shell so beginners on Linux can learn embedded the friendly way:
-
-- 🧱 &nbsp;**50+ custom blocks** covering the full standard Arduino library
-- 👁️ &nbsp;**Live C++ generation** — watch code write itself as you snap blocks
-- 🔌 &nbsp;Board discovery, one-click compile **&** flash via `arduino-cli`
-- 🟢 &nbsp;Offline Blockly via QtWebEngine · phosphor-green lab console UI
-
-<a href="https://github.com/harshverma27/SparkIDE"><img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffd43b" /></a>
-<a href="https://github.com/harshverma27/SparkIDE"><img src="https://img.shields.io/badge/PyQt6-0d1117?style=flat-square&logo=qt&logoColor=41cd52" /></a>
-<a href="https://github.com/harshverma27/SparkIDE"><img src="https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979d" /></a>
-<br/>
-<a href="https://github.com/harshverma27/SparkIDE"><img src="https://img.shields.io/badge/▶_explore_sparkIDE-0d1117?style=for-the-badge&labelColor=0e4429&color=0d1117" /></a>
-
-</td>
-</tr>
-</table>
+⚡ &nbsp;Working on **[Nucleus](https://github.com/harshverma27/nucleus)** · **[SparkIDE](https://github.com/harshverma27/SparkIDE)**
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
@@ -208,47 +123,6 @@ Active contributor to **GNOME** ([GitLab @harshverma](https://gitlab.gnome.org/h
 </td>
 </tr>
 </table>
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-<!-- ============ ARSENAL ============ -->
-## <samp>$ ls ./toolchain</samp>
-
-<div align="center">
-
-**Languages**
-
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=f74c00)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=a8b9cc)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599c)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffd43b)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7f52ff)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4eaa25)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1)
-
-**Embedded · Hardware**
-
-![STM32](https://img.shields.io/badge/STM32-0d1117?style=for-the-badge&logo=stmicroelectronics&logoColor=03234b)
-![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00979d)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=a22846)
-![GTK](https://img.shields.io/badge/GTK+-0d1117?style=for-the-badge&logo=gtk&logoColor=7fe719)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=007808)
-
-**Backend · Mobile · Cloud**
-
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092e20)
-![Jetpack Compose](https://img.shields.io/badge/Compose-0d1117?style=for-the-badge&logo=jetpackcompose&logoColor=4285f4)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28)
-![PyQt](https://img.shields.io/badge/PyQt6-0d1117?style=for-the-badge&logo=qt&logoColor=41cd52)
-
-**Automation · Systems**
-
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=fcc624)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088ff)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-0d1117?style=for-the-badge&logo=gitlab&logoColor=fc6d26)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
 
 </div>
 
