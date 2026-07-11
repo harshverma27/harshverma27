@@ -9,7 +9,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,40:0e4429,70:22d3ee,100:a78bfa&text=HARSH%20VERMA&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=firmware%20%C2%B7%20developer%20tooling%20%C2%B7%20open%20source&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0d1117,40:0e4429,70:22d3ee,100:a78bfa&text=HARSH%20VERMA&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=firmware%20%C2%B7%20developer%20tooling%20%C2%B7%20open%20source&descAlignY=62&descSize=18&animation=none" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=4ADE80&center=true&vCenter=true&width=720&height=46&lines=I+build+the+tools+I+wish+existed.;STM32+%2F%2F+Arduino+%2F%2F+Embedded+Linux;Rust+systems+%E2%80%A2+Python+%E2%80%A2+Kotlin;Open+source+%40+GNOME+%C2%B7+GIMP+%C2%B7+BABL)](https://git.io/typing-svg)
 
@@ -22,8 +22,6 @@
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f471b5&labelColor=0d1117)](mailto:harshkardam246@gmail.com)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=harshverma27&style=for-the-badge&color=a78bfa&label=VISITORS&labelColor=0d1117)](https://github.com/harshverma27)
-
-<img alt="puzzle bobble contributions" src="https://raw.githubusercontent.com/harshverma27/harshverma27/output/puzzle-bobble-contribution-graph-dark.svg" />
 
 </div>
 
@@ -73,9 +71,10 @@
 <!-- ============ ABOUT ============ -->
 ## About
 
-EE undergrad @ NIT Hamirpur ('24 → '28), based on Arch Linux. I live one layer below the app — firmware, CLIs, build tooling, CI.
-
-Working on **[Nucleus](https://github.com/harshverma27/nucleus)** and **[SparkIDE](https://github.com/harshverma27/SparkIDE)**, plus writing tests for GIMP and fixing GNOME CI.
+> 🦀 &nbsp;EE undergrad @ NIT Hamirpur ('24 → '28), based on Arch Linux.
+> I live one layer below the app — firmware, CLIs, build tooling, CI.
+>
+> ⚡ &nbsp;Working on **[Nucleus](https://github.com/harshverma27/nucleus)** and **[SparkIDE](https://github.com/harshverma27/SparkIDE)**, plus writing tests for GIMP and fixing GNOME CI.
 
 ---
 
@@ -95,25 +94,35 @@ Active contributor to **GNOME** ([GitLab @harshverma](https://gitlab.gnome.org/h
 
 <div align="center">
 
+<a href="https://github.com/GNOME">
+<img src="https://avatars.githubusercontent.com/u/1801039?v=4" width="96" />
+<br/><b>GNOME</b>
+</a>
+<br/><sub>active contributor — GIMP, BABL, GEGL CI &amp; tooling</sub>
+
+<br/><br/>
+
+**Other communities**
+
 <table border="0">
 <tr>
 <td align="center" width="33%">
 <a href="https://github.com/kernex-sbs">
-<img src="https://avatars.githubusercontent.com/u/188563992?v=4" width="72" />
+<img src="https://avatars.githubusercontent.com/u/188563992?v=4" width="64" />
 <br/><b>kernex</b>
 </a>
 <br/><sub>a playground for ideas i care enough to ship</sub>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/ResQTerra">
-<img src="https://avatars.githubusercontent.com/u/224233261?v=4" width="72" />
+<img src="https://avatars.githubusercontent.com/u/224233261?v=4" width="64" />
 <br/><b>ResQTerra</b>
 </a>
 <br/><sub>drone-based landslide search &amp; rescue system</sub>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/Backdoor-Zero">
-<img src="https://avatars.githubusercontent.com/u/297050865?v=4" width="72" />
+<img src="https://avatars.githubusercontent.com/u/297050865?v=4" width="64" />
 <br/><b>Backdoor Zero</b>
 </a>
 <br/><sub>we hunt the holes in the boxes that route your life</sub>
