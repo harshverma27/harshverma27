@@ -72,7 +72,7 @@
 <h2 align="center">About</h2>
 
 > 🦀 &nbsp;EE undergrad @ NIT Hamirpur ('24 → '28), based on Arch Linux.
-> I live one layer below the app — firmware, CLIs, build tooling, CI.
+> Living one layer below the app — firmware, CLIs, build tooling, CI.
 >
 > ⚡ &nbsp;Working on **[Nucleus](https://github.com/harshverma27/nucleus)** and **[SparkIDE](https://github.com/harshverma27/SparkIDE)**, plus writing tests for GIMP and fixing GNOME CI.
 
