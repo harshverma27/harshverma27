@@ -105,7 +105,4 @@ Active contributor to **GNOME** ([GitLab @harshverma](https://gitlab.gnome.org/h
 *"The best way to predict the firmware is to flash it." — me, debugging at 3am*
 
 <a href="#top"><img src="https://img.shields.io/badge/▲_back_to_top-0d1117?style=for-the-badge&labelColor=0e4429&color=0d1117" /></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:a78bfa,30:22d3ee,60:0e4429,100:0d1117&animation=fadeIn" />
-
 </div>
