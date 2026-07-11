@@ -9,7 +9,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0d1117,40:0e4429,70:22d3ee,100:a78bfa&text=HARSH%20VERMA&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=firmware%20%C2%B7%20developer%20tooling%20%C2%B7%20open%20source&descAlignY=62&descSize=18&animation=none" />
+<img width="100%" src="banner.png" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=4ADE80&center=true&vCenter=true&width=720&height=46&lines=I+build+the+tools+I+wish+existed.;STM32+%2F%2F+Arduino+%2F%2F+Embedded+Linux;Rust+systems+%E2%80%A2+Python+%E2%80%A2+Kotlin;Open+source+%40+GNOME+%C2%B7+GIMP+%C2%B7+BABL)](https://git.io/typing-svg)
 
