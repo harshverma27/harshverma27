@@ -204,6 +204,7 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
                 node {
                     ... on Repository {
                         nameWithOwner
+                        isFork
                         defaultBranchRef {
                             target {
                                 ... on Commit {
@@ -229,7 +230,9 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
         edges += request.json()['data']['user']['repositories']['edges']            # Add on to the LoC count
         return loc_query(owner_affiliation, comment_size, force_cache, request.json()['data']['user']['repositories']['pageInfo']['endCursor'], edges)
     else:
-        return cache_builder(edges + request.json()['data']['user']['repositories']['edges'], comment_size, force_cache)
+        all_edges = edges + request.json()['data']['user']['repositories']['edges']
+        # forks carry the upstream project's entire history, which is not mine to count
+        return cache_builder([edge for edge in all_edges if not edge['node']['isFork']], comment_size, force_cache)
 
 
 def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
