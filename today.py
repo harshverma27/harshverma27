@@ -47,10 +47,10 @@ def post_query(query, variables, tries=5):
     for attempt in range(tries):
         try:
             request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS, timeout=60)
-            request.content # the API sometimes drops the connection mid-body
             if request.status_code < 500:
+                request.json() # the API sometimes answers 200 with a truncated or empty body
                 return request
-        except requests.exceptions.RequestException as error:
+        except (requests.exceptions.RequestException, ValueError) as error:
             if attempt == tries - 1: raise
             print('Retrying after', error)
         time.sleep(2 ** attempt)
