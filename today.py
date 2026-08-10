@@ -45,9 +45,14 @@ def post_query(query, variables, tries=5):
     Posts a GraphQL query, retrying with backoff while the API answers 5xx
     """
     for attempt in range(tries):
-        request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
-        if request.status_code < 500:
-            return request
+        try:
+            request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS, timeout=60)
+            request.content # the API sometimes drops the connection mid-body
+            if request.status_code < 500:
+                return request
+        except requests.exceptions.RequestException as error:
+            if attempt == tries - 1: raise
+            print('Retrying after', error)
         time.sleep(2 ** attempt)
     return request
 
